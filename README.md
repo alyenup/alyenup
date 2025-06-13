@@ -13,7 +13,6 @@
   <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><span></span>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"><span> </span>
   <img alt="Go" src="https://img.shields.io/badge/go-%23326ce5?style=for-the-badge&logo=go&logoColor=white"/><span></span>
-  <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/><span></span>
 </p>
 
 
