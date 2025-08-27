@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-six-sable-78.vercel.app/api?username=alyenup&show_icons=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_border=true&line_height=24" />
-  <img src="https://github-readme-stats-six-sable-78.vercel.app/api/top-langs/?username=alyenup&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_border=true&layout=compact&count_private=true&langs_count=8&cache_seconds=86400" alt="Top Langs"/>
+  <img src="https://github-readme-stats-six-sable-78.vercel.app/api/top-langs/?username=alyenup&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide_border=true&layout=compact&count_private=true&langs_count=10&cache_seconds=86400" alt="Top Langs"/>
 </p>
 
 ---
